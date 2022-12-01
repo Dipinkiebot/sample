@@ -20,3 +20,6 @@ from sklearn import metrics
 cf=metrics.confusion_matrix(y,py)
 print(cf)
 dipin
+just adding some changes
+
+ddffeedgdfgffhfhhhfh
