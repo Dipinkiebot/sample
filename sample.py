@@ -19,4 +19,4 @@ print(classification_report(y, py, target_names=target_names))
 from sklearn import metrics
 cf=metrics.confusion_matrix(y,py)
 print(cf)
-
+dipin
